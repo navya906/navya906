@@ -2,11 +2,11 @@
   <img src="assets/banner.svg" alt="Navya Ghatta: backend engineering, RAG and agentic AI" width="100%">
 </p>
 
-<p align="center"><b>Open to SDE / SWE internships</b> &nbsp;|&nbsp; Ahmedabad, India</p>
+<p align="center"><b>Open to SDE / SWE internships</b> &nbsp;|
 
 ## About me
 
-I'm a pre-final year Computer Science student at VIT Vellore, specialising in Data Science. I like building systems where an LLM has to work with real data: fetch the right evidence, reason over it, and give an answer you can check.
+I'm a Pre-final year Computer Science student at VIT Vellore, specialising in Data Science. I like building systems where an LLM has to work with real data: fetch the right evidence, reason over it, and give an answer you can check.
 
 Most of what I build sits on the backend: REST APIs, retrieval pipelines and multi-agent workflows, with enough frontend to make them usable. Right now I'm exploring RAG architectures and distributed systems, and keeping up steady DSA practice.
 
