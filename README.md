@@ -43,7 +43,8 @@ Most of what I build sits on the backend: REST APIs, retrieval pipelines and mul
 
 ## Education
 
-**Vellore Institute of Technology, Vellore.** BTech, Computer Science and Engineering with Data Science, 2024 to 2028.
+**Vellore Institute of Technology, Vellore.** 
+BTech, Computer Science and Engineering with Data Science, 2024 to 2028.
 
 ## Connect
 
