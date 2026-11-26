@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Navya Ghatta: backend engineering, RAG and agentic AI" width="100%">
 </p>
 
-<p align="center"><b>Open to SDE / SWE internships</b> &nbsp;|
+<p align="center"><b>Open to SDE / SWE internships</b> &nbsp;
 
 ## About me
 
